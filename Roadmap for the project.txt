@@ -1,0 +1,6 @@
+ROad map:
+
+Front end components:
+
+
+Backend functions:
